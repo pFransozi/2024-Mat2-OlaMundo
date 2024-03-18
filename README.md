@@ -28,3 +28,13 @@
 
 1. Indentação do código;
 ![alt](imagens/Aula3.5_img1.png)
+
+### Aula 5
+
+1. Criar estila para os títulos de nível 2, cor da fonte laranja;
+2. Vincular a folha de estilo à página index.html;
+
+## Para saber mais:
+
+1. [Mozilla Foundation](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+1. [W3C](https://www.w3.org/TR/2011/WD-html5-20110405/)
