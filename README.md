@@ -23,3 +23,8 @@
 
 1. Criar diretório para organizar as imagens;
 1. Fazer download do arquivo de imagem e utilizar a tag de imagem para incluí-la na página;
+
+### Aula 4
+
+1. Indentação do código;
+![alt](imagens/Aula3.5_img1.png)
