@@ -31,10 +31,17 @@
 
 ### Aula 5
 
-1. Criar estila para os títulos de nível 2, cor da fonte laranja;
-2. Vincular a folha de estilo à página index.html;
+1. Criar estila para o seletor dos títulos de nível 2, cor da fonte laranja;
+1. Vincular a folha de estilo à página index.html;
+
+### Aula 6
+
+1. Criar estilo para o seletor do corpo da página, cor de fonte e cor da fonte;
+1. Sintáxe do CSS com seletor tag do html;
+![Sintáxe do CSS com seletor tag do html;](imagens/Aula4.2-img3.png)
 
 ## Para saber mais:
 
 1. [Mozilla Foundation](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 1. [W3C](https://www.w3.org/TR/2011/WD-html5-20110405/)
+1. [Cores](https://www.w3schools.com/cssref/css_colors.php)
