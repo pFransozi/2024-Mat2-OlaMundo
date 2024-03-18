@@ -51,6 +51,7 @@
 1. Utilizar tag span e identificador para especificar uma região do html e atribuir a elas estilo personalizado;
 1. utilizar tag span e class para especificar regiões do html e atribuir a elas estilo personalizado;
 1. Utilizar negrito e itálico para modificar o estilo das regiões acima;
+1. Utilizar seletores no css para id e class;
 
 ## Para saber mais:
 
