@@ -17,4 +17,9 @@
 ### Aula 2
 
 1. Utilizar as tags semânticas: header, section, footer;
-2. Uitlizar as tags de título e parágrafo;
+1. Uitlizar as tags de título e parágrafo;
+
+### Aula 3
+
+1. Criar diretório para organizar as imagens;
+1. Fazer download do arquivo de imagem e utilizar a tag de imagem para incluí-la na página;
