@@ -46,6 +46,12 @@
 1. Utilizar borda inferior para o cabeçalho da página. Borda sólida, cor cinza;
 1. Utilizar borda superior no rodapé da página. Borda sólida, cor cinza;
 
+### Aula 8
+
+1. Utilizar tag span e identificador para especificar uma região do html e atribuir a elas estilo personalizado;
+1. utilizar tag span e class para especificar regiões do html e atribuir a elas estilo personalizado;
+1. Utilizar negrito e itálico para modificar o estilo das regiões acima;
+
 ## Para saber mais:
 
 1. [Mozilla Foundation](https://developer.mozilla.org/pt-BR/docs/Web/HTML)

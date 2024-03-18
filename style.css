@@ -5,14 +5,22 @@ body {
     text-align: center;
 }
 
-header{
+header {
     border-bottom: 1px solid grey;
 }
 
-footer{
-    border-top:  1px solid grey;
+footer {
+    border-top: 1px solid grey;
 }
 
 h2 {
     color: orange
+}
+
+#nome-estudante-titulo-boas-vindas {
+    font-weight: bold;
+}
+
+.texto-em-ingles {
+    font-style: italic;
 }
