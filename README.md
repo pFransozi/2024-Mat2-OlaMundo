@@ -40,6 +40,12 @@
 1. Sintáxe do CSS com seletor tag do html;
 ![Sintáxe do CSS com seletor tag do html;](imagens/Aula4.2-img3.png)
 
+### Aula 7
+
+1. Utilizar alinhamento centralizado para o corpo da página;
+1. Utilizar borda inferior para o cabeçalho da página. Borda sólida, cor cinza;
+1. Utilizar borda superior no rodapé da página. Borda sólida, cor cinza;
+
 ## Para saber mais:
 
 1. [Mozilla Foundation](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
