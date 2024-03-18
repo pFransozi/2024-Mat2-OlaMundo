@@ -13,3 +13,8 @@
 1. Modificar a linguagem da página para o padrão português brasileiro (pt-br);
 1. Modificar o charset, modificar a largura da página para a largura do dispositivo;
 1. Modificar o título da página;
+
+### Aula 2
+
+1. Utilizar as tags semânticas: header, section, footer;
+2. Uitlizar as tags de título e parágrafo;
