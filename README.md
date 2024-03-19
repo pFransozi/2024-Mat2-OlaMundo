@@ -53,6 +53,13 @@
 1. Utilizar negrito e itálico para modificar o estilo das regiões acima;
 1. Utilizar seletores no css para id e class;
 
+### Aula 9
+
+1. Utilizar javascript para interação com o usuário da página;
+1. Utilizar javascript para pedir o nome do usuário;
+1. Motificar parágrafo do header para informar o nome do usuário na mensagem de boas-vendas;
+1. Enquanto usuário não informar nenhum nome, deve solicitar novamente; caso cancela o prompt, utilizar a palavra estudante;
+
 ## Para saber mais:
 
 1. [Mozilla Foundation](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
